@@ -1,0 +1,5 @@
+git commands:
+git clone
+git status
+cd ________ name - для входа в папку
+git add . - to add all changes that have been made - this should be done before we comit in order to add all the changes to the comit ready file
